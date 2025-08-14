@@ -1,0 +1,1 @@
+A clean front-end replica of the Amazon homepage built using HTML, CSS, and Flexbox. This project recreates key UI components including the navigation bar, banner, product cards, and responsive layout. Ideal for practicing responsive web design and mastering modern CSS techniques.
